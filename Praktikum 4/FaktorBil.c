@@ -1,6 +1,6 @@
 ///*Nama File : FaktorBil.c */
 ///*Deskripsi : Membuat algoritma untuk menentukan faktor bilangan dari sembarang integer*/
-///*Pembuat : Mursetyo Ardityan Nugroho - 24060121140095*/
+///*Pembuat : Mursetyo Ardiyan Nugroho - 24060121140095*/
 ///*Tanggal : Selasa, 15 Maret 2022 17:28 WIB*/
 //#include <stdio.h>
 //#include <stdlib.h>
